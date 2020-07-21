@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e172b47a-6802-47ed-8faf-5ad2d3982442" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1eU5EqtTf1AoVKWUxmFMLYMwb2c" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Python.parse_pedobychenie.rf">
+    <configuration name="parse_9111.ru" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ScrapBot" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/parse_9111.ru.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="parse_b17.ru" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ScrapBot" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/parse_b17.ru.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="parse_centrobrazovanija.ru" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ScrapBot" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/parse_centrobrazovanija.ru.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="parse_goskatalog.ru" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ScrapBot" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/parse_goskatalog.ru.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="parse_pedobychenie.rf" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ScrapBot" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/parse_pedobychenie.rf.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.parse_pedobychenie.rf" />
+        <item itemvalue="Python.parse_centrobrazovanija.ru" />
+        <item itemvalue="Python.parse_goskatalog.ru" />
+        <item itemvalue="Python.parse_b17.ru" />
+        <item itemvalue="Python.parse_9111.ru" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e172b47a-6802-47ed-8faf-5ad2d3982442" name="Default Changelist" comment="" />
+      <created>1594363221757</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594363221757</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1727" y="154" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1594563465386">
+      <screen x="1345" y="0" width="1295" height="768" />
+    </state>
+    <state x="1727" y="154" key="#com.intellij.fileTypes.FileTypeChooser/1345.0.1295.768/65.0.1215.1024@1345.0.1295.768" timestamp="1594563465386" />
+    <state x="1740" y="119" key="FileChooserDialogImpl" timestamp="1594461770601">
+      <screen x="1345" y="0" width="1295" height="768" />
+    </state>
+    <state x="1740" y="119" key="FileChooserDialogImpl/1345.0.1295.768/65.0.1215.1024@1345.0.1295.768" timestamp="1594461770601" />
+    <state width="1274" height="165" key="GridCell.Tab.0.bottom" timestamp="1594630211796">
+      <screen x="65" y="0" width="1295" height="768" />
+    </state>
+    <state width="1339" height="171" key="GridCell.Tab.0.bottom/1345.0.1295.768/65.0.1215.1024@1345.0.1295.768" timestamp="1594626477059" />
+    <state width="1274" height="165" key="GridCell.Tab.0.bottom/65.0.1295.768/-1280.0.1218.1024@65.0.1295.768" timestamp="1594630211796" />
+    <state width="1274" height="165" key="GridCell.Tab.0.center" timestamp="1594630211796">
+      <screen x="65" y="0" width="1295" height="768" />
+    </state>
+    <state width="1339" height="171" key="GridCell.Tab.0.center/1345.0.1295.768/65.0.1215.1024@1345.0.1295.768" timestamp="1594626477058" />
+    <state width="1274" height="165" key="GridCell.Tab.0.center/65.0.1295.768/-1280.0.1218.1024@65.0.1295.768" timestamp="1594630211796" />
+    <state width="1274" height="165" key="GridCell.Tab.0.left" timestamp="1594630211796">
+      <screen x="65" y="0" width="1295" height="768" />
+    </state>
+    <state width="1339" height="171" key="GridCell.Tab.0.left/1345.0.1295.768/65.0.1215.1024@1345.0.1295.768" timestamp="1594626477058" />
+    <state width="1274" height="165" key="GridCell.Tab.0.left/65.0.1295.768/-1280.0.1218.1024@65.0.1295.768" timestamp="1594630211796" />
+    <state width="1274" height="165" key="GridCell.Tab.0.right" timestamp="1594630211796">
+      <screen x="65" y="0" width="1295" height="768" />
+    </state>
+    <state width="1339" height="171" key="GridCell.Tab.0.right/1345.0.1295.768/65.0.1215.1024@1345.0.1295.768" timestamp="1594626477058" />
+    <state width="1274" height="165" key="GridCell.Tab.0.right/65.0.1295.768/-1280.0.1218.1024@65.0.1295.768" timestamp="1594630211796" />
+    <state width="1274" height="165" key="GridCell.Tab.1.bottom" timestamp="1594630211796">
+      <screen x="65" y="0" width="1295" height="768" />
+    </state>
+    <state width="1339" height="201" key="GridCell.Tab.1.bottom/1345.0.1295.768/65.0.1215.1024@1345.0.1295.768" timestamp="1594581550348" />
+    <state width="1274" height="165" key="GridCell.Tab.1.bottom/65.0.1295.768/-1280.0.1218.1024@65.0.1295.768" timestamp="1594630211796" />
+    <state width="1274" height="165" key="GridCell.Tab.1.center" timestamp="1594630211796">
+      <screen x="65" y="0" width="1295" height="768" />
+    </state>
+    <state width="1339" height="201" key="GridCell.Tab.1.center/1345.0.1295.768/65.0.1215.1024@1345.0.1295.768" timestamp="1594581550348" />
+    <state width="1274" height="165" key="GridCell.Tab.1.center/65.0.1295.768/-1280.0.1218.1024@65.0.1295.768" timestamp="1594630211796" />
+    <state width="1274" height="165" key="GridCell.Tab.1.left" timestamp="1594630211796">
+      <screen x="65" y="0" width="1295" height="768" />
+    </state>
+    <state width="1339" height="201" key="GridCell.Tab.1.left/1345.0.1295.768/65.0.1215.1024@1345.0.1295.768" timestamp="1594581550348" />
+    <state width="1274" height="165" key="GridCell.Tab.1.left/65.0.1295.768/-1280.0.1218.1024@65.0.1295.768" timestamp="1594630211796" />
+    <state width="1274" height="165" key="GridCell.Tab.1.right" timestamp="1594630211796">
+      <screen x="65" y="0" width="1295" height="768" />
+    </state>
+    <state width="1339" height="201" key="GridCell.Tab.1.right/1345.0.1295.768/65.0.1215.1024@1345.0.1295.768" timestamp="1594581550348" />
+    <state width="1274" height="165" key="GridCell.Tab.1.right/65.0.1295.768/-1280.0.1218.1024@65.0.1295.768" timestamp="1594630211796" />
+    <state x="1372" y="92" width="1176" height="544" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1594552183407">
+      <screen x="1345" y="0" width="1295" height="768" />
+    </state>
+    <state x="1372" y="92" width="1176" height="544" key="com.intellij.history.integration.ui.views.FileHistoryDialog/1345.0.1295.768/65.0.1215.1024@1345.0.1295.768" timestamp="1594552183407" />
+    <state x="1636" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1594625109944">
+      <screen x="1345" y="0" width="1295" height="768" />
+    </state>
+    <state x="1636" y="188" key="com.intellij.ide.util.TipDialog/1345.0.1295.768/65.0.1215.1024@1345.0.1295.768" timestamp="1594625109944" />
+    <state x="1280" y="0" width="627" height="768" key="find.popup" timestamp="1594565235910">
+      <screen x="1345" y="0" width="1295" height="768" />
+    </state>
+    <state x="1280" y="0" width="627" height="768" key="find.popup/1345.0.1295.768/65.0.1215.1024@1345.0.1295.768" timestamp="1594565235910" />
+  </component>
+</project>
